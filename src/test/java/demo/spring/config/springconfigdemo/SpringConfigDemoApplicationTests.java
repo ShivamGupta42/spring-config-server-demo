@@ -1,0 +1,13 @@
+package demo.spring.config.springconfigdemo;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SpringConfigDemoApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
